@@ -2,3 +2,6 @@ transformers
 gradio
 streamlit
 pdfplumber
+torch
+
+
